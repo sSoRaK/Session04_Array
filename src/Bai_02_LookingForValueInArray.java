@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LookingForValueInArray {
+public class Bai_02_LookingForValueInArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // cho array studentName

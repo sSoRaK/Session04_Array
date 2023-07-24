@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseElementInArray {
+public class Bai_01_ReverseElementInArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int size;

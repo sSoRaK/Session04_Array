@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GTNNByMethod {
+public class Bai_05_GTNNByMethod {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập kích thước mảng: ");

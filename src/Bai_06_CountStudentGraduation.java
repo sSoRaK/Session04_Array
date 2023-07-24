@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CountStudentGraduation {
+public class Bai_06_CountStudentGraduation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int size;

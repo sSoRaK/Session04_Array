@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TimGiaTriLonNhatTrongArray {
+public class Bai_03_TimGiaTriLonNhatTrongArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int size;

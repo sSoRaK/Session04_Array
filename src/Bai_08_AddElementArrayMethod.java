@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class AddElementArrayMethod {
+public class Bai_08_AddElementArrayMethod {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] array1 = new int[10];
@@ -31,6 +31,6 @@ public class AddElementArrayMethod {
                 array2[i] = array1[i - 1];
             }
         }
-        System.out.println("Mảng sau khi xóa: " + Arrays.toString(array2));
+        System.out.println("Mảng sau khi thêm: " + Arrays.toString(array2));
     }
 }

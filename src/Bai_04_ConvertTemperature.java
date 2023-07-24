@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ConvertTemperature {
+public class Bai_04_ConvertTemperature {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         do {
